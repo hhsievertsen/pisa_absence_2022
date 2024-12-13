@@ -1,0 +1,5 @@
+# Ignore all SAS program files
+*.sas
+
+# Ignore all SAS data files
+*.sas7bdat
